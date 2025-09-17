@@ -1,0 +1,10 @@
+title: My Jekyll Site
+description: >- 
+  A simple Jekyll website with blog support.
+baseurl: ""
+url: "https://GSBC-longisland.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+github: [metadata]
