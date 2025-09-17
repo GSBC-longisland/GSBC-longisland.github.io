@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Jekyll Site
+# Great South Bay Coffee
 
-This is the homepage of your new Jekyll website!
+For up-to-date information, please check GSBC's Instagram page.
+
+## Links
+
+- [Instagram](https://instagram.com/gsbcoffee)
