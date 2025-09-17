@@ -9,4 +9,4 @@ For up-to-date information, please check GSBC's Instagram page.
 
 ## Links
 
-- [Instagram](https://instagram.com/gsbcoffee)
+- [GSBC's Instagram profile](https://instagram.com/gsbcoffee)
