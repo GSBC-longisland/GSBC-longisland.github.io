@@ -1,8 +1,8 @@
---
+---
 layout: page
-title: hours
+title: Hours
 permalink: /hours/
---
+---
 
 # Hours
 
