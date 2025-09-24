@@ -2,3 +2,34 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: white;
+  color: black;
+}
+header, footer {
+  background: white;
+  padding: 1em;
+  text-align: center;
+}
+nav a {
+  margin: 0 1em;
+  color: #426d4d;
+  text-decoration: none;
+}
+a {
+  color: #426d4d
+}
+a:visited {
+  color: #123524;
+}
+main {
+  max-width: 650px;
+  margin: 2em auto;
+  background: white;
+  padding: 2em;
+  border-radius: 0.5em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
