@@ -5,6 +5,7 @@ permalink: /hours/
 ---
 
 ### September hours
+
 |  | open | close |
 |-----|------|-------|
 | Thursday | 8am | 2pm |
