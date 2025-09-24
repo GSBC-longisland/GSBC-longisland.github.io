@@ -2,18 +2,24 @@ body {
   font-family: system-ui, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f9f9f9;
-  color: #222;
+  background: white;
+  color: black;
 }
 header, footer {
-  background: #eee;
+  background: white;
   padding: 1em;
   text-align: center;
 }
 nav a {
   margin: 0 1em;
-  color: #0366d6;
+  color: #426d4d;
   text-decoration: none;
+}
+a {
+  color: #426d4d
+}
+a:visited {
+  color: #123524;
 }
 main {
   max-width: 650px;
