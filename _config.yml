@@ -3,8 +3,9 @@ description: >-
   Great South Bay Coffee's home on the Information Super Highway!
 baseurl: ""
 url: "https://GSBC-longisland.github.io"
-theme: minima
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 github: [metadata]
