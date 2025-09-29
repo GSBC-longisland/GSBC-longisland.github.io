@@ -14,6 +14,6 @@ One thing (among many) that GSBC is, is an attempt to go small. We see so many b
 
 There are people I care about all over the world. But my *neighbors* live by the Great South Bay. And they're who I'm making coffee for.
 
---
+---
 
 *My menu is evolving, but I think a coffee place should also have non-coffee beverages. My trailer is small, so there's only so much I can do, but I try to cover a lot of ground: caffienated and non-caffienated, warm and cold, comforting and refreshing.
