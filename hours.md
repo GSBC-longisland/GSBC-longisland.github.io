@@ -13,4 +13,4 @@ permalink: /hours/
 | Saturday | 9am | 4pm |
 | Sunday | 9am | 3pm |
 
-*last updated:** Sept. 30, 2025
+*last updated:* Sept. 30, 2025
