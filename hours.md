@@ -4,15 +4,15 @@ title: Hours
 permalink: /hours/
 ---
 
-### October hours 
+### November hours 
 
 |  | open | close |
 |-----|------|-------|
-| Thursday | 9am | 5pm |
-| Friday | 9am | 5pm |
-| Saturday | 9am | 5pm |
-| Sunday | 9am | 5pm |
+| Thursday | 9am | 3pm |
+| Friday | 9am | 3pm |
+| Saturday | 9am | 4pm |
+| Sunday | 9am | 4pm |
 
-I'll be closed between 1 and 1:45 each day to give myself a chance to have some lunch and rest. 
+There will be some variations for events and I will be closed on Thanksgiving. Check Instagram for updates. 
 
-*last updated:* October 2, 2025
+*last updated:* November 3, 2025
