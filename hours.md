@@ -9,7 +9,6 @@ permalink: /hours/
 
 |  | open | close |
 |-----|------|-------|
-| Monday Dec. 15 | 8:30am | 12:30pm |
 | Wednesday Dec. 17 | 8:30am | 12:30pm |
 | Thursday Dec. 18 | 10am | 3pm |
 | Friday Dec. 19 | 10am | 3pm |
