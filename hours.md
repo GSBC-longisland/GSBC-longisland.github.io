@@ -15,7 +15,7 @@ permalink: /hours/
 | Saturday | Dec. 20 | 2pm | 6pm |
 | Sunday | Dec. 21 | 10am | 4pm |
 | Monday | Dec. 22 | 10am | 3pm |
-| Tuesday | Dec. 23 | 10am | 3pm |
+| Tuesday | Dec. 23 | closed | closed |
 | Wednesday | Dec. 24 | 10am | 2pm |
 
 These are my last open days for 2025. I'll be spending time with family over the holidays, but I'll be open again in January as long as the weather cooperates!
