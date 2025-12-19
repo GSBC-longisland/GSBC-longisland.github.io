@@ -11,7 +11,7 @@ permalink: /hours/
 |-----|------|-------|-----|
 | Wednesday | Dec. 17 | 8:30am | 12:30pm |
 | Thursday | Dec. 18 | 10am | 3pm |
-| Friday | Dec. 19 | 10am | 3pm |
+| Friday | Dec. 19 | 10am | 12pm |
 | Saturday | Dec. 20 | 2pm | 6pm |
 | Sunday | Dec. 21 | 10am | 4pm |
 | Monday | Dec. 22 | 10am | 3pm |
@@ -20,4 +20,4 @@ permalink: /hours/
 
 These are my last open days for 2025. I'll be spending time with family over the holidays, but I'll be open again in January as long as the weather cooperates!
 
-*last updated:* December 16, 2025
+*last updated:* December 19, 2025
