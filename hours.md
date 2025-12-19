@@ -11,7 +11,7 @@ permalink: /hours/
 |-----|------|-------|-----|
 | Wednesday | Dec. 17 | 8:30am | 12:30pm |
 | Thursday | Dec. 18 | 10am | 3pm |
-| Friday | Dec. 19 | 10am | 12pm |
+| Friday | Dec. 19 | closed | due to weather |
 | Saturday | Dec. 20 | 2pm | 6pm |
 | Sunday | Dec. 21 | 10am | 4pm |
 | Monday | Dec. 22 | 10am | 3pm |
