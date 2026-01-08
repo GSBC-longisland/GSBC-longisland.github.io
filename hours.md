@@ -4,20 +4,22 @@ title: Hours
 permalink: /hours/
 ---
 
-### December hours 
+### January hours 
 
+Happy New Year!
+
+I'm currently undergoing some plumbing issues, but plan to open up **Monday, January 12** from 10-1. 
+
+Once everything is back on line, cleaned, and refreshed, the plan is to be open **every Thursday, Friday, and Sunday** from 10-3 for the rest of January (and probably a lot of February as well).
 
 |  | | open | close |
 |-----|------|-------|-----|
-| Wednesday | Dec. 17 | 8:30am | 12:30pm |
-| Thursday | Dec. 18 | 10am | 3pm |
-| Friday | Dec. 19 | closed | due to weather |
-| Saturday | Dec. 20 | 2pm | 6pm |
-| Sunday | Dec. 21 | 10am | 4pm |
-| Monday | Dec. 22 | 10am | 3pm |
-| Tuesday | Dec. 23 | closed | closed |
-| Wednesday | Dec. 24 | 10am | 2pm |
+| Monday | Jan 12 & 19 | 10am | 1pm |
+| Tuesday | | closed | closed |
+| Wednesday | | closed | closed |
+| Thursday | | 10am | 3pm |
+| Friday | | 10am | 3pm |
+| Saturday | | closed | closed |
+| Sunday | | 10am | 3pm |
 
-These are my last open days for 2025. I'll be spending time with family over the holidays, but I'll be open again in January as long as the weather cooperates!
-
-*last updated:* December 19, 2025
+*last updated:* January 8, 2026
