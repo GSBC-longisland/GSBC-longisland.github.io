@@ -4,20 +4,18 @@ title: Hours
 permalink: /hours/
 ---
 
-### January hours 
+### January hours (week of jan 19-25)
 
-Happy New Year!
-
-The current plan is to be open **every Thursday, Friday, and Sunday** from 10-3 for the rest of January (and probably a lot of February as well). I'm considering running a few hours on Saturdays after 2pm, and maybe early afternoons on Mondays or Wednesdays.
+The weather forecast looks pretty miserable this week so I'm scheduling extra hours while expecting that I'll have to cancel some of them. keep an eye on the Instagram page for latest updates. 
 
 |  | | open | close |
 |-----|------|-------|-----|
-| Monday |  | closed | closed |
+| Monday |  | 12pm | 3pm |
 | Tuesday | | closed | closed |
 | Wednesday | | closed | closed |
 | Thursday | | 10am | 3pm |
 | Friday | | 10am | 3pm |
-| Saturday | | closed | closed |
+| Saturday | | 2pm | 4pm |
 | Sunday | | 10am | 3pm |
 
-*last updated:* January 14, 2026
+*last updated:* January 18, 2026
