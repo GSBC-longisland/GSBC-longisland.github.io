@@ -4,9 +4,9 @@ title: Hours
 permalink: /hours/
 ---
 
-### January hours (week of jan 19-25)
+### Winter hours
 
-The weather forecast looks pretty miserable this week so I'm scheduling extra hours while expecting that I'll have to cancel some of them. keep an eye on the Instagram page for latest updates. 
+These hours are pretty aspirational (I'm writing this update after a big snow storm and leading up to a cold weather advisory), but this is what I _hope_ my hours will look like when the cold weather lets off.
 
 |  | | open | close |
 |-----|------|-------|-----|
@@ -18,4 +18,6 @@ The weather forecast looks pretty miserable this week so I'm scheduling extra ho
 | Saturday | | 2pm | 4pm |
 | Sunday | | 10am | 3pm |
 
-*last updated:* January 18, 2026
+But for **this week** I'll be closed until at least Groundhog Day. And as a general rule, I'll probably be closed on days when the high is below 25 degrees. As usual, check Instagram for the latest updates.
+
+*last updated:* January 29, 2026
