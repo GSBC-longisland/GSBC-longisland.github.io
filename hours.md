@@ -4,9 +4,14 @@ title: Hours
 permalink: /hours/
 ---
 
+### Week off to recover
+I tweaked my back pretty badly at the end of January which has put me out of commission. But I plan to open back up Thursday February 12th.
+
 ### Winter hours
 
-These hours are pretty aspirational (I'm writing this update after a big snow storm and leading up to a cold weather advisory), but this is what I _hope_ my hours will look like when the cold weather lets off.
+These hours are pretty aspirational (I'm writing this update after a big snow storm and leading up to a cold weather advisory), but this is what I _hope_ my hours will look like when the cold weather lets off. 
+
+If the weather forecast looks bad (windy, cold, etc.) check my Instagram account for updates.
 
 |  | | open | close |
 |-----|------|-------|-----|
@@ -18,6 +23,6 @@ These hours are pretty aspirational (I'm writing this update after a big snow st
 | Saturday | | 2pm | 4pm |
 | Sunday | | 10am | 3pm |
 
-But for **this week** I'll be closed until at least Groundhog Day. And as a general rule, I'll probably be closed on days when the high is below 25 degrees. As usual, check Instagram for the latest updates.
 
-*last updated:* January 29, 2026
+
+*last updated:* February 5, 2026
