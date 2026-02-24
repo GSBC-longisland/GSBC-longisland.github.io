@@ -5,18 +5,18 @@ permalink: /hours/
 ---
 
 
-### February 16-22
+### February 23-March 8
 
 |  | | open | close |
 |-----|------|-------|-----|
 | Monday |  | closed | closed |
 | Tuesday | | closed | closed |
 | Wednesday | | closed | closed |
-| Thursday | | 10am | 2pm |
-| Friday | | 10am | 2pm |
+| Thursday | | 10am | 3pm |
+| Friday | | 10am | 3pm |
 | Saturday | | closed | closed |
 | Sunday | | 10am | 3pm |
 
 
 
-*last updated:* February 16, 2026
+*last updated:* February 24, 2026
