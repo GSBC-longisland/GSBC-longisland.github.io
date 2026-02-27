@@ -20,6 +20,7 @@ This is a living list that will grow and change over time.
 
 ## YouTube
 * [Glen and Friends](https://www.youtube.com/@GlenAndFriendsCooking)
+* [Art of Drink](https://youtube.com/@artofdrink?si=9D2Gpy6wtymWCKq5)
 
 ---
 *last updated: Feb 24*
