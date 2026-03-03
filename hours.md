@@ -5,7 +5,7 @@ permalink: /hours/
 ---
 
 
-### February 23-March 8
+### February 23-March 15
 
 |  | | open | close |
 |-----|------|-------|-----|
@@ -19,4 +19,4 @@ permalink: /hours/
 
 
 
-*last updated:* February 24, 2026
+*last updated:* March 3, 2026
