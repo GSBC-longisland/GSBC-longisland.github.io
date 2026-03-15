@@ -5,7 +5,7 @@ permalink: /hours/
 ---
 
 
-### February 23-March 15
+### Spring Hours!
 
 |  | | open | close |
 |-----|------|-------|-----|
@@ -14,9 +14,9 @@ permalink: /hours/
 | Wednesday | | closed | closed |
 | Thursday | | 10am | 3pm |
 | Friday | | 10am | 3pm |
-| Saturday | | closed | closed |
+| Saturday | | 10am | 3pm |
 | Sunday | | 10am | 3pm |
 
 
 
-*last updated:* March 3, 2026
+*last updated:* March 15, 2026
