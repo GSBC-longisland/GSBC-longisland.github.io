@@ -9,7 +9,7 @@ permalink: /hours/
 
 |  | | open | close |
 |-----|------|-------|-----|
-| Monday |  | closed | closed |
+| Monday |  | 10am | 3p, |
 | Tuesday | | closed | closed |
 | Wednesday | | closed | closed |
 | Thursday | | 10am | 3pm |
@@ -19,4 +19,4 @@ permalink: /hours/
 
 
 
-*last updated:* March 15, 2026
+*last updated:* May 17, 2026
