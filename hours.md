@@ -5,18 +5,23 @@ permalink: /hours/
 ---
 
 
-### Spring Hours!
+### July Hours!
 
 |  | | open | close |
 |-----|------|-------|-----|
-| Monday |  | 10am | 3p, |
+| Monday |  | closed | closed |
 | Tuesday | | closed | closed |
-| Wednesday | | closed | closed |
+| Wednesday | | 10am | 3pm |
 | Thursday | | 10am | 3pm |
 | Friday | | 10am | 3pm |
 | Saturday | | 10am | 3pm |
 | Sunday | | 10am | 3pm |
 
+## EXCEPTIONS:
+I will be open Monday, June 29.
 
+I will be open early (hopefully by 8:30) on July 1st.
 
-*last updated:* May 17, 2026
+I will close early (1pm) Wednesday, July 15th. 
+
+*last updated:* June 28, 2026
