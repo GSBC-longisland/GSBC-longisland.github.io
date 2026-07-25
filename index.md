@@ -7,9 +7,6 @@ title: Home
 
 For up-to-date information, please check GSBC's Instagram page.
 
-if you're reading this in mid-July, thank you for your patience while I sort out an 
-equipment issue that has temporarily shut down operations. I'll reopen as soon as I can!
-
 ## Links
 
 - [GSBC's Instagram profile](https://instagram.com/gsbcoffee)
