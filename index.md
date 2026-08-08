@@ -7,6 +7,10 @@ title: Home
 
 For up-to-date information, please check GSBC's Instagram page.
 
+# End of summer updates
+
+If you're reading this at the start of August, I've been closed due to a series of unfortunate events, but plan to be back (with limited hours) soon. With September just around the corner, I will be pulling back to a fall schedule (Thursdays through Sundays).
+
 ## Links
 
 - [GSBC's Instagram profile](https://instagram.com/gsbcoffee)
