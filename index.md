@@ -9,7 +9,9 @@ For up-to-date information, please check GSBC's Instagram page.
 
 # End of summer updates
 
-If you're reading this at the start of August, I've been closed due to a series of unfortunate events, but plan to be back (with limited hours) soon. With September just around the corner, I will be pulling back to a fall schedule (Thursdays through Sundays).
+I'm recovering from a back injury which, unfortunately, might mean my hours are less reliable than i would prefer.
+If I'm supposed to be open but the trailer is closed, please know that I'm trying to recover enough that I don't have to close for an extended time.
+Thanks for your patience and understanding!
 
 ## Links
 
